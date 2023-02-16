@@ -1,0 +1,15 @@
+/Users/daulet/Documents/c#Seminar1/bin/Debug/net7.0/c#Seminar1
+/Users/daulet/Documents/c#Seminar1/bin/Debug/net7.0/c#Seminar1.deps.json
+/Users/daulet/Documents/c#Seminar1/bin/Debug/net7.0/c#Seminar1.runtimeconfig.json
+/Users/daulet/Documents/c#Seminar1/bin/Debug/net7.0/c#Seminar1.dll
+/Users/daulet/Documents/c#Seminar1/bin/Debug/net7.0/c#Seminar1.pdb
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.csproj.AssemblyReference.cache
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.AssemblyInfoInputs.cache
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.AssemblyInfo.cs
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.csproj.CoreCompileInputs.cache
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.dll
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/refint/c#Seminar1.dll
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.pdb
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/c#Seminar1.genruntimeconfig.cache
+/Users/daulet/Documents/c#Seminar1/obj/Debug/net7.0/ref/c#Seminar1.dll
